@@ -6,11 +6,19 @@ A simple To-Do App to understand the basic functionality of React and related co
 
 This is motivated by [Scrimba](https://scrimba.com/).
 
-### Screenshot of the To-Do App
+## Screenshot of the To-Do App
 
 ![](images/todo_screenshot.png)
 
-### Project Admin
+## Tutorial Blog Post
+
+The following is my tutorial blog post on ["Learn React by building a To-Do App — React Functionalities Explained"](https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396)
+
+So finally, most of the todos for the day are done except the assignment(as always)!
+
+![](images/cmd13.png)
+
+## Project Admin
 
 [![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/AnjaliSharma1234/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/AnjaliSharma1234/)
 
