@@ -6,7 +6,7 @@ A simple To-Do App to understand the basic functionality of React and related co
 
 This is motivated by [Scrimba](https://scrimba.com/).
 
-### Screenshot of the Chrome Extention
+### Screenshot of the To-Do App
 
 ![](images/todo_screenshot.png)
 
