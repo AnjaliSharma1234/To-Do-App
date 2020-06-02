@@ -26,6 +26,8 @@ So finally, most of the todos for the day are done except the assignment(as alwa
 | :----------------------------------------------------------: |
 | **[Anjali Sharma](https://www.linkedin.com/in/anjalisharmaaa/)**  |
 
+For more details visit my portfolio at anjalisharma.tech 
+
 [![GitHub followers](https://img.shields.io/github/followers/AnjaliSharma1234.svg?label=Follow%20@AnjaliSharma1234&style=social)](https://github.com/AnjaliSharma1234/) [![Twitter Follow](https://img.shields.io/twitter/follow/AnjaliiSharmaaa?style=social)](https://twitter.com/AnjaliiSharmaaa) 
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnjaliSharma1234/)
